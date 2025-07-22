@@ -1,0 +1,12 @@
+streamlit
+dropbox
+google-cloud-vision
+python-docx
+PyMuPDF
+pillow
+opencv-python-headless
+imageio
+numpy
+sentence-transformers
+torch
+scikit-learn
